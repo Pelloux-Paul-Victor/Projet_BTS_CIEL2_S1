@@ -25,12 +25,4 @@ void loop() {
     delay(500); // Lecture toutes les 500 ms
 }
 
-// Implémentation du main Arduino obligatoire pour un .cpp
-int main() {
-    init();
-    setup();
-    while (true) {
-        loop();
-    }
-    return 0;
-}
+
