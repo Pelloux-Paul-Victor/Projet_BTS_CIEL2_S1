@@ -1,6 +1,6 @@
 # 1./ Projet BTS CIEL2 Semestre 1
 
-### **Création du dépôt le 20.11.2025 par Paul-Victor PELLOUX**
+### **Création du dépôt le 20.11.2025 par _Paul-Victor PELLOUX_**
 ### _Auteur du projet:_
 **SUDRE Théo**
 **- PELLOUX Paul-Victor**
