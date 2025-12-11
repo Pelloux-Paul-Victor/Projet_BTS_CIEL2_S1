@@ -6,7 +6,7 @@
 # 2./ Informations supplémentaires
 
 ### **Architecture du projet:** 
-**- Code**
+** - Code**
 **- Diagrammes**
 **- Documents**
 
