@@ -8,8 +8,12 @@
 
 # 2./ Informations supplémentaires
 
+### _Nom du projet officiel:_
+**Vehicle Detector**
+
+
 ### _Architecture du projet:_
-**Code**
-**- Diagrammes**
-**- Documents**
+**demo**
+**- src**
+**- doc**
 
