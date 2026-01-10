@@ -1,5 +1,4 @@
 #include <Arduino.h>
-#include "VehicleDetector.h"
 #include "VehicleDetector.cpp"
 
 // Définition des pins reliés aux modules de détection
@@ -51,4 +50,5 @@ void loop() {
     Serial.println("--");
 
     delay(500); // Lecture toutes les 500 ms
+
 }
