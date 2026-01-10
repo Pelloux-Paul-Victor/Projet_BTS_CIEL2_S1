@@ -21,4 +21,4 @@
 - Ouvrir le fichier ino dans l'éditeur officiel d'Arduino
 - Compiler et exécuter le code
 
-Merci d'avoir regardé notre projet !
+Merci d'avoir regardé notre travail !
