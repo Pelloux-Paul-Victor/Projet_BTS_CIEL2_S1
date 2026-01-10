@@ -8,7 +8,7 @@
 
 # 2./ Informations supplémentaires
 
-### _Nom du projet officiel:_
+### _Nom du module travaillé :_
 - _Vehicle Detector_
 
 ### _Architecture du dépôt:_
