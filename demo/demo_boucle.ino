@@ -3,7 +3,7 @@
 #define VEHICLE_DETECTOR_H
 
 #include <Arduino.h>
-
+#include <VehicleDetector.h>
 /**
  * @brief Classe pour gérer la détection de véhicules via une broche numérique.
  * * Предпоose que le circuit de détection (par ex., un module de boucle 
@@ -101,4 +101,6 @@ void loop() {
     Serial.println("--");
 
     delay(500); // Lecture toutes les 500 ms
+
 }
+
